@@ -1,0 +1,14 @@
+{
+    "name": "root/message",
+    "description": "This is my first package",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "htp-spverma",
+            "email": "shriprakash.verma@hytechpro.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
